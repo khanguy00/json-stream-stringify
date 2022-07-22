@@ -41,7 +41,7 @@ jspm_packages
 
 # Build artifacts
 dist
-lib
+# lib
 tmp
 
 # Test folder, because tests are compiled
